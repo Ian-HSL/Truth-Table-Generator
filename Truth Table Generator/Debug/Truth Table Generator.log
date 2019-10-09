@@ -1,0 +1,5 @@
+﻿  Truth Table Generator.cpp
+C:\Users\ianho\OneDrive\HG - Ian\CSULB\Fall 2019\C++\Truth Table Generator\Truth Table Generator\Truth Table Generator.cpp(21,57): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ianho\OneDrive\HG - Ian\CSULB\Fall 2019\C++\Truth Table Generator\Truth Table Generator\Truth Table Generator.cpp(21,32): warning C4244:  'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\ianho\OneDrive\HG - Ian\CSULB\Fall 2019\C++\Truth Table Generator\Truth Table Generator\Truth Table Generator.cpp(26,15): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Truth Table Generator.vcxproj -> C:\Users\ianho\OneDrive\HG - Ian\CSULB\Fall 2019\C++\Truth Table Generator\Debug\Truth Table Generator.exe
